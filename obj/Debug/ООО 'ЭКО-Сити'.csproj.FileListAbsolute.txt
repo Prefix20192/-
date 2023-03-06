@@ -1,0 +1,23 @@
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\bin\Debug\ООО 'ЭКО-Сити'.exe.config
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\bin\Debug\ООО 'ЭКО-Сити'.exe
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\bin\Debug\ООО 'ЭКО-Сити'.pdb
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\obj\Debug\ООО 'ЭКО-Сити'.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\obj\Debug\ООО__ЭКО_Сити_.Properties.Resources.resources
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\obj\Debug\ООО 'ЭКО-Сити'.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\obj\Debug\ООО 'ЭКО-Сити'.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\obj\Debug\ООО 'ЭКО-Сити'.exe
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\obj\Debug\ООО 'ЭКО-Сити'.pdb
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\obj\Debug\ООО__ЭКО_Сити_.Main.resources
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\obj\Debug\ООО__ЭКО_Сити_.Personal_account.resources
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\obj\Debug\ООО__ЭКО_Сити_.about_the_activity.resources
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\obj\Debug\ООО__ЭКО_Сити_.vacancy_main.resources
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\obj\Debug\ООО__ЭКО_Сити_.requisites.resources
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\bin\Debug\Database.mdf
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\bin\Debug\Database_log.ldf
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\obj\Debug\ООО__ЭКО_Сити_.reg_from.resources
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\obj\Debug\ООО__ЭКО_Сити_.SingIn.resources
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\obj\Debug\ООО__ЭКО_Сити_.ResetPassword.resources
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\bin\Debug\ООО 'ЭКО-Сити'.exe.manifest
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\bin\Debug\ООО 'ЭКО-Сити'.application
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\obj\Debug\ООО 'ЭКО-Сити'.exe.manifest
+C:\Users\Admin\Documents\project_vs\eko-siti\ООО 'ЭКО-Сити'\obj\Debug\ООО 'ЭКО-Сити'.application
